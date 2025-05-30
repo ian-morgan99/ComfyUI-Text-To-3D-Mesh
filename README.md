@@ -22,3 +22,10 @@ Back view prompt:
 Result after about 2 minutes:
 
 ![image](https://github.com/user-attachments/assets/12a8eb95-c39c-4f5c-8ef3-c2274c3d319a)
+
+I will now upload a higher resolution version, with a single prompt, to make it easier to use:
+
+Example:
+![image](https://github.com/user-attachments/assets/d4f24d2b-1755-4b45-819b-32ba21c06143)
+
+
