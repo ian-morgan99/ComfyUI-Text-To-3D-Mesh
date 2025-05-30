@@ -3,6 +3,14 @@ ComfyUI - Text to 3D Mesh Using StableDiffusion 3.5 and Hunyuan Multiple Images 
 
 This model uses the Stable Diffusion 3.5 Model that is provided as part of the ComfyUI default templates, and the Hunyuan Image to 3D Mesh Template.
 
+There are two versions:
+
+The newer, high resolution version uses a slightly different node for the 3D representation.
+It requires only a single prompt, describing the item in as much detail as possible and will produce a GLB file.
+It then creates 4 images for the front back left and right and uses those to develop the 3D model file.
+
+THe older, lower resolution version works by:
+
 Provide the workflow with a description of the item you want to 3D model, from the front, back, left and right, and it will generate 4 images from that text, and feed them into the Hunyuan engine.
 
 Example:
