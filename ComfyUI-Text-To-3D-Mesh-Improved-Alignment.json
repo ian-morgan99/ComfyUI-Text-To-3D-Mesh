@@ -1475,7 +1475,7 @@
         "Node name for S&R": "PrimitiveStringMultiline"
       },
       "widgets_values": [
-        "A detailed medieval sword with ornate crossguard and pommel, centered, clean background, consistent lighting"
+        "[YOUR OBJECT DESCRIPTION HERE]\n\nExample: A detailed medieval sword with ornate crossguard and pommel, centered, clean background, consistent lighting"
       ]
     },
     {

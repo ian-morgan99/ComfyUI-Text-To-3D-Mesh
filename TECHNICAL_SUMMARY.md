@@ -327,11 +327,11 @@ The improved workflow provides substantial quality gains through:
 
 ## References
 
-1. Stable Diffusion 3.5 Technical Report
-2. Hunyuan3D-2mv Model Card (HuggingFace)
-3. "Multi-view Consistency in Diffusion Models" (Research)
-4. ComfyUI Documentation
-5. Orthographic Projection in Computer Graphics (Standard practice)
+1. [Stable Diffusion 3.5 Model Card](https://huggingface.co/stabilityai/stable-diffusion-3.5-large) - Official model documentation
+2. [Hunyuan3D-2mv on HuggingFace](https://huggingface.co/tencent/Hunyuan3D-2mv) - Model card and technical details
+3. [Stable Virtual Camera](https://stability.ai/news/introducing-stable-virtual-camera-multi-view-video-generation-with-3d-camera-control) - Multi-view consistency research
+4. [ComfyUI Documentation](https://docs.comfy.org/) - Official ComfyUI documentation
+5. Foley, J. D., van Dam, A., Feiner, S. K., & Hughes, J. F. (1996). Computer Graphics: Principles and Practice. Addison-Wesley. - Orthographic projection reference
 
 ## Appendix: Configuration Files
 
