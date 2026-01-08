@@ -3,6 +3,10 @@ ComfyUI - Text to 3D Mesh Using StableDiffusion 3.5 and Hunyuan Multiple Images 
 
 This model uses the Stable Diffusion 3.5 Model that is provided as part of the ComfyUI default templates, and the Hunyuan Image to 3D Mesh Template.
 
+## 🚀 Quick Start
+
+New to this workflow? See **[QUICK_START.md](QUICK_START.md)** for a 5-minute setup guide.
+
 ## Workflows Available
 
 There are three versions:
